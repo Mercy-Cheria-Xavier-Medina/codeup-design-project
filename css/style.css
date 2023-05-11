@@ -1,15 +1,30 @@
 body{
-	background-color: #F0EAD6;
+	background-color: #F0F0F0;
 }
 
 h1{
-	font-family: 'Abel', sans-serif;
+	font-family: 'Anton', sans-serif;
+	text-align: center;
+	margin: .5em;
+}
+h3{
+	font-family: 'Anton', sans-serif;
+	text-align: center;
+	margin: .5em;
 }
 .navbar{
 	font-family: 'Abel', sans-serif;
+	background-color: #F0F0F0;
 }
 .navbar-brand{
 	font-weight: bold;
+}
+borderimage{
+	border: 40px darkblue;
+}
+.workselected{
+	text-align: center;
+	font-family: 'Abel', sans-serif;
 }
 
 
