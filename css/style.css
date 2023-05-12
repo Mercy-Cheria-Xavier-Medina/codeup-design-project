@@ -71,11 +71,11 @@ h3{
 .position-absolute{
 	position: absolute;
 	color: white;
-	text-align: center;
 	font-size: 15px;
 	font-family: 'Anton', sans-serif;
-	vertical-align: middle;
-	left: 5px;
+	justify-content: center;
+	left: 17px;
+	margin: 10px auto;
 
 }
 
