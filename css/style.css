@@ -68,6 +68,17 @@ h3{
 	font-family: 'Abel', sans-serif;
 	background-color: #F0F0F0;
 }
+.position-absolute{
+	position: absolute;
+	color: white;
+	text-align: center;
+	font-size: 15px;
+	font-family: 'Anton', sans-serif;
+	vertical-align: middle;
+	left: 5px;
+
+}
+
 .navbar-brand{
 	font-weight: bold;
 }
