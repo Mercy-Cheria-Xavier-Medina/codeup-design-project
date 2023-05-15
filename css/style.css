@@ -78,14 +78,14 @@ h3{
 .rounded-circle{
 	text-align: center;
 	border: white solid .5em;
-	border-radius: 100em;
+	border-radius: 50%;
 	font-family: 'Anton', sans-serif;
 	color: white;
 }
 ul {
 	list-style-type: none;
 }
-li{
+.list-tweet{
 	margin: 0 0 50px 0;
 }
 
@@ -97,7 +97,15 @@ li{
 	justify-content: center;
 	left: 17px;
 	margin: 10px auto;
+}
 
+.card-button{
+	border-radius: 50%;
+	float: right;
+	width: 23px;
+	text-align: center;
+	font-family: 'Anton', sans-serif;
+	color: black;
 }
 
 .navbar-brand{
@@ -107,5 +115,6 @@ li{
 	text-align: center;
 	font-family: 'Abel', sans-serif;
 }
+
 
 col-xl-* col-lg-* col-md-* col-sm-*
