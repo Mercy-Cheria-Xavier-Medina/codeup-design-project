@@ -52,6 +52,12 @@ body{
 .img-fluid{
 	max-width: 100%;
 	height: auto;
+	border-radius: 2px;
+	border: #E6E6E6 solid 5px;
+}
+.image-list{
+	height: 100px;
+	width: 150px;
 }
 
 h1{
@@ -68,6 +74,21 @@ h3{
 	font-family: 'Abel', sans-serif;
 	background-color: #F0F0F0;
 }
+
+.rounded-circle{
+	text-align: center;
+	border: white solid .5em;
+	border-radius: 100em;
+	font-family: 'Anton', sans-serif;
+	color: white;
+}
+ul {
+	list-style-type: none;
+}
+li{
+	margin: 0 0 50px 0;
+}
+
 .position-absolute{
 	position: absolute;
 	color: white;
