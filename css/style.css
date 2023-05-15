@@ -75,21 +75,22 @@ h5{
 	font-weight: bold;
 }
 
-.mb1{
-	padding: 10px;
-}
-
 .navbar{
 	font-family: 'Abel', sans-serif;
 	background-color: #F0F0F0;
 }
 
-.rounded-circle{
+.big-button{
 	text-align: center;
-	border: white solid .5em;
-	border-radius: 50%;
+	border-radius: 100%;
 	font-family: 'Anton', sans-serif;
 	color: white;
+	border: white 5px solid;
+	height: 100px;
+	width: 100px;
+	text-align: center;
+	line-height: 90px;
+	margin: 30px;
 }
 ul {
 	list-style-type: none;
@@ -124,6 +125,10 @@ ul {
 .workselected{
 	text-align: center;
 	font-family: 'Abel', sans-serif;
+}
+.buttons-row{
+	display: flex;
+	justify-content: center;
 }
 
 
