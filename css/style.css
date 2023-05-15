@@ -70,6 +70,15 @@ h3{
 	text-align: center;
 	margin: .5em;
 }
+
+h5{
+	font-weight: bold;
+}
+
+.mb1{
+	padding: 10px;
+}
+
 .navbar{
 	font-family: 'Abel', sans-serif;
 	background-color: #F0F0F0;
@@ -106,6 +115,7 @@ ul {
 	text-align: center;
 	font-family: 'Anton', sans-serif;
 	color: black;
+	margin: 2px;
 }
 
 .navbar-brand{
